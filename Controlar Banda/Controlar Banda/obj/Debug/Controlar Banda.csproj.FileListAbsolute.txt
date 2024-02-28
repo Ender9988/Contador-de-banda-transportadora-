@@ -1,0 +1,15 @@
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\bin\Debug\Controlar Banda.exe.config
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\bin\Debug\Controlar Banda.exe
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\bin\Debug\Controlar Banda.pdb
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar Banda.csproj.AssemblyReference.cache
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar Banda.csproj.SuggestedBindingRedirects.cache
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar_Banda.Properties.Resources.resources
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar Banda.csproj.GenerateResource.cache
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar Banda.csproj.CoreCompileInputs.cache
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar Banda.exe
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar Banda.pdb
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar_Banda.Form1.resources
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\bin\Debug\Controlar Banda.exe.manifest
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\bin\Debug\Controlar Banda.application
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar Banda.exe.manifest
+D:\Word\Interaccion Humano Computadora\Programas\Controlar Banda\Controlar Banda\obj\Debug\Controlar Banda.application
